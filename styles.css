@@ -154,7 +154,12 @@ header nav ul li a:hover {
 
 }
 
-
+li {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #333;
+    font-size: 18px;
+  }
 
   section {
       padding: 50px 20px;
